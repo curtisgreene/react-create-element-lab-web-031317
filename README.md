@@ -22,7 +22,7 @@ Your task is to create a React element that represents _you_ (or a close approxi
 <div class="me">
   <h1>An Awesome Person</h1>
   <p>Who is learning React</p>
-  
+
   <ul class="me__interests">
     <li>JavaScript</li>
     <li>React</li>
